@@ -7,12 +7,12 @@ function App() {
   const initialData = [
     {
       id: 1,
-      taskName: 'Do laundry',
+      taskName: '250000x front flips',
       completed: false
     },
     {
       id: 2,
-      taskName: 'Get groceries',
+      taskName: 'Figure out the answer',
       completed: false
     },
   ];
